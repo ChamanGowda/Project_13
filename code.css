@@ -273,4 +273,12 @@ nav a.active, nav a:hover {
 
 }
 
+.join-btn {
+
+    background: linear-gradient(90deg, var(--primary), var(--accent));
+
+    color: white;
+
+}
+
 
