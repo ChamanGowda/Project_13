@@ -378,3 +378,10 @@ nav a.active, nav a:hover {
     display: block;
 
 }
+
+.about-text {
+
+    flex: 1;
+
+}
+
