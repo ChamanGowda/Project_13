@@ -247,4 +247,12 @@ nav a.active, nav a:hover {
 
 }
 
+.header-actions {
+
+    display: flex;
+
+    gap: 1rem;
+
+}
+
 
