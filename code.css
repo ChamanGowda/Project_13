@@ -237,4 +237,14 @@ nav a.active, nav a:hover {
 
 }
 
+.header-image img {
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+
+}
+
 
