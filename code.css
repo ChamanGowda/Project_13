@@ -312,4 +312,14 @@ nav a.active, nav a:hover {
 
 }
 
+/* Section Styles */
+
+.section-header {
+
+    text-align: center;
+
+    margin-bottom: 3rem;
+
+}
+
 
