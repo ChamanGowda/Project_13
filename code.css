@@ -175,4 +175,20 @@ nav a.active, nav a:hover {
 
 }
 
+/* Header */
+
+.club-header {
+
+    display: flex;
+
+    align-items: center;
+
+    padding: 4rem 5%;
+
+    max-width: 1400px;
+
+    margin: 0 auto;
+
+}
+
 
