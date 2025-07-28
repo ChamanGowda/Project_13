@@ -191,4 +191,12 @@ nav a.active, nav a:hover {
 
 }
 
+.header-content {
+
+    flex: 1;
+
+    padding-right: 3rem;
+
+}
+
 
