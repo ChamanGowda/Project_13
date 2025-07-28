@@ -330,4 +330,18 @@ nav a.active, nav a:hover {
 
 }
 
+.divider {
+
+    width: 80px;
+
+    height: 4px;
+
+    background: linear-gradient(90deg, var(--primary), var(--accent));
+
+    margin: 0 auto;
+
+    border-radius: 2px;
+
+}
+
 
