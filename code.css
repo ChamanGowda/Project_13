@@ -159,4 +159,20 @@ nav a.active, nav a:hover {
 
 }
 
+.mobile-menu-button {
+
+    display: none; /* Hidden by default for desktop */
+
+    background: none;
+
+    border: none;
+
+    color: var(--light);
+
+    font-size: 1.5rem;
+
+    cursor: pointer;
+
+}
+
 
