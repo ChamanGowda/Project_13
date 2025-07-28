@@ -357,4 +357,16 @@ nav a.active, nav a:hover {
 }
 
 
+.about-image {
+
+    flex: 1;
+
+    border-radius: 15px;
+
+    overflow: hidden;
+
+    box-shadow: var(--shadow);
+
+}
+
 
