@@ -344,4 +344,17 @@ nav a.active, nav a:hover {
 
 }
 
+/* About Section */
+
+.about-content {
+
+    display: flex;
+
+    gap: 3rem;
+
+    align-items: center;
+
+}
+
+
 
