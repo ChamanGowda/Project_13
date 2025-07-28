@@ -291,4 +291,12 @@ nav a.active, nav a:hover {
 
 }
 
+.join-btn:hover, .event-btn:hover {
+
+    transform: translateY(-3px);
+
+    box-shadow: var(--shadow);
+
+}
+
 
