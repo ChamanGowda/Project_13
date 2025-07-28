@@ -27,4 +27,22 @@
 
 }
 
+/* Base Styles */
+
+body {
+
+    margin: 0;
+
+    font-family: 'Segoe UI', system-ui, sans-serif;
+
+    background: var(--bg-gradient);
+
+    color: var(--light);
+
+    line-height: 1.6;
+
+    overflow-x: hidden;
+
+}
+
 
