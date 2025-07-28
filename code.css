@@ -151,3 +151,12 @@ nav a.active, nav a:hover {
 
 }
 
+.join-button {
+
+    background: linear-gradient(90deg, var(--primary), var(--accent));
+
+    color: white !important;
+
+}
+
+
