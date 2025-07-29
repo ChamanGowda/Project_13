@@ -443,5 +443,21 @@ nav a.active, nav a:hover {
 
 }
 
+.detail-card {
+
+    background: var(--card-gradient);
+
+    padding: 2rem;
+
+    border-radius: 15px;
+
+    text-align: center;
+
+    transition: var(--transition);
+
+    box-shadow: var(--shadow);
+
+}
+
 
 
