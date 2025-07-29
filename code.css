@@ -459,5 +459,16 @@ nav a.active, nav a:hover {
 
 }
 
+.detail-card i {
+
+    font-size: 2.5rem;
+
+    color: var(--primary);
+
+    margin-bottom: 1rem;
+
+}
+
+
 
 
