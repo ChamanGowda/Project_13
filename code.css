@@ -423,5 +423,13 @@ nav a.active, nav a:hover {
 
 }
 
+.highlight-item:hover {
+
+    background: rgba(170, 72, 72, 0.2);
+
+    transform: translateY(-5px);
+
+}
+
 
 
