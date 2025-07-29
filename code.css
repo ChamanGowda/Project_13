@@ -397,5 +397,23 @@ nav a.active, nav a:hover {
 
 }
 
+.highlight-item {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 0.8rem;
+
+    background: rgba(147, 14, 14, 0.1);
+
+    padding: 1rem;
+
+    border-radius: 10px;
+
+    transition: var(--transition);
+
+}
+
 
 
