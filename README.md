@@ -1,4 +1,4 @@
-# 🎨 Club Web UI – Light Mode Theme
+ 🎨 Club Web UI – Light Mode Theme club
 
 A modern, responsive, and visually appealing CSS theme designed for a **club or event-based website**. Built with **CSS3 custom properties**, smooth transitions, and gradient-based color schemes, this stylesheet brings a premium look to any HTML structure.
 
